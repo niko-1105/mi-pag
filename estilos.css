@@ -1,0 +1,21 @@
+.exterior{
+    background-color: green;
+    width: 500px;
+    height: 300px;
+    padding: 20x;
+}
+.medio{
+    background-color: aqua;
+    margin: 30px;
+    width: 20px;
+    height: 400px;
+    padding: 200x;
+
+}
+.interior{
+    background-color: blueviolet;
+    width: 50px;
+    height: 500px;
+    padding: 300px;
+}
+
